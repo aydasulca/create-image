@@ -1,0 +1,41 @@
+body {
+  border-radius: 2px;
+  -webkit-appearance: none;
+  border: 1px solid #ccc;
+  padding: 7px;
+  height: 630px;
+}
+input {
+  border-radius: 2px;
+  -webkit-appearance: none;
+  border: 1px solid #ccc;
+  padding: 7px;
+}
+label {
+  font-family: 'Raleway', sans-serif;
+  color: #C70039 ;
+}
+.text-center{
+  position: relative;
+  margin-top: 30px;
+  margin-bottom: 80px;
+  text-align: center;
+}
+
+#contenedor {
+  margin-top: 30px;
+
+}
+
+.contenedor-imagen {
+  display: inline-block;
+  margin: 0 10px 20px 10px;
+}
+
+img{
+  display: inline-block;
+  border: 1px solid #ccc;
+  padding: 20px;
+  width: 80%;
+  height: 80%;
+}
